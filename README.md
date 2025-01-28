@@ -77,7 +77,6 @@ $ git clone https://github.com/nimplay/budgetapp.git
 ```
 $ npm i
 
-```
 
 ## Authors
 
