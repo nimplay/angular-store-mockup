@@ -59,9 +59,9 @@ $vnpm list @angular/core
 
 ### Links
 
-Flowbite: https://flowbite.com/docs/components/navbar/
-Fake Store: https://fakestoreapi.com/docs
-Ngxtension: https://ngxtension.netlify.app/utilities/signals/signal-slice/
+- Flowbite: https://flowbite.com/docs/components/navbar/
+- Fake Store: https://fakestoreapi.com/docs
+- Ngxtension: https://ngxtension.netlify.app/utilities/signals/signal-slice/
 
 ### Setup
 
