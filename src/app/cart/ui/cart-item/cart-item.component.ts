@@ -16,5 +16,4 @@ export class CartItemComponent {
 
   decreaseCartItem = output<ProductItemCart>();
 
-
 }
