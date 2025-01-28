@@ -1,59 +1,109 @@
-# SignalStore
+![](https://img.shields.io/badge/Nimplay-blueviolet)
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.4.
+# Store - Angular
 
-## Development server
+ An Angular-based mockup of an e-commerce store showcasing a modern design and dynamic functionality, including product listing, cart management, and responsive layout. Developed to demonstrate proficiency in Angular, TypeScript, and front-end development best practices.
+## Built With
 
-To start a local development server, run:
+![](https://img.shields.io/badge/-Angular-red)
+![](https://img.shields.io/badge/-TypeScript-red)
+![](https://img.shields.io/badge/-VSCode-blue)
+![](https://img.shields.io/badge/Testing-Jasmine-brightgreen)
+![](https://img.shields.io/badge/Test%20Runner-Karma-red)
+![](https://img.shields.io/badge/Unit%20Testing-Angular-blue)
+- Visual Studio Code
+- Angular version 19.1.4
+- TypeScript version 5.7.3
+- rxjs version 7.8.1
+- flowbite
+- Tailwind
+- Fake Store API
+- AWS S3
 
-```bash
-ng serve
+## live
+
+## App ScreenShot
+
+![Texto alternativo](https://senora-garabato-images.s3.us-east-2.amazonaws.com/NimDev/Screenshot+2025-01-28+132748.png)
+
+![Texto alternativo](https://senora-garabato-images.s3.us-east-2.amazonaws.com/NimDev/Screenshot+2025-01-28+132727.png)
+
+![Texto alternativo](https://senora-garabato-images.s3.us-east-2.amazonaws.com/NimDev/Screenshot+2025-01-28+132727.png)
+
+
+
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+- [x] A code editor like Visual Studio Code with Git and Angular.
+
+You can check if Git is installed by running the following command in the terminal.
+
+```
+$ git --version
+
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Check Angular version.
 
-## Code scaffolding
+```
+$ ng version
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
 ```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+If Angular is not instaled.
 
-```bash
-ng generate --help
 ```
 
-## Building
+$vnpm list @angular/core
 
-To build the project run:
-
-```bash
-ng build
 ```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+### Setup
 
-## Running unit tests
+Clone the repository using the GitHub link provided below.
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+### Install
 
-```bash
-ng test
+In the terminal, go to your file directory and run this command.
+
+```
+$ git clone https://github.com/nimplay/budgetapp.git
+
+```
+$ npm i
+
 ```
 
-## Running end-to-end tests
+## Authors
 
-For end-to-end (e2e) testing, run:
+👤 ** Nimrod Acosta **
 
-```bash
-ng e2e
-```
+- GitHub: [nimplay](https://github.com/nimplay)
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+- Twitter: [NimrodAcosta](https://twitter.com/NimrodAcosta)
 
-## Additional Resources
+- LinkedIn: [nimrod-acosta](https://www.linkedin.com/in/nimrod-acosta-734330169/)
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Based on the [design](https://www.youtube.com/watch?v=fy8K1t4CLS4)
+by [Carlos Morales Dev](https://www.youtube.com/@CarlosMoralesDev)
+
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.# README
