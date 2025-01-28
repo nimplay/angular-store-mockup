@@ -45,7 +45,6 @@ You can check if Git is installed by running the following command in the termin
 
 ```
 $ git --version
-
 ```
 Check Angular version.
 ```
