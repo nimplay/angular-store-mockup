@@ -25,6 +25,8 @@
 
 ## live
 
+https://angular-store-muckup.netlify.app/store
+
 ## App ScreenShot
 
 ![Texto alternativo](https://senora-garabato-images.s3.us-east-2.amazonaws.com/NimDev/Screenshot+2025-01-28+132748.png)
