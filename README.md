@@ -73,10 +73,11 @@ In the terminal, go to your file directory and run this command.
 
 ```
 $ git clone https://github.com/nimplay/budgetapp.git
+```
 
 ```
 $ npm i
-
+```
 
 ## Authors
 
