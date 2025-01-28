@@ -47,20 +47,15 @@ You can check if Git is installed by running the following command in the termin
 $ git --version
 
 ```
-
 Check Angular version.
-
 ```
 $ ng version
-
 ```
 
 If Angular is not instaled.
 
 ```
-
 $vnpm list @angular/core
-
 ```
 
 ### Setup
@@ -85,9 +80,7 @@ $ npm i
 
 - GitHub: [nimplay](https://github.com/nimplay)
 
-- Twitter: [NimrodAcosta](https://twitter.com/NimrodAcosta)
-
-- LinkedIn: [nimrod-acosta](https://www.linkedin.com/in/nimrod-acosta-734330169/)
+- LinkedIn: [nimrod-acosta](https://www.linkedin.com/in/nimrod-acosta)
 
 
 ## 🤝 Contributing
