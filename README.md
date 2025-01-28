@@ -3,6 +3,7 @@
 # Store - Angular
 
  An Angular-based mockup of an e-commerce store showcasing a modern design and dynamic functionality, including product listing, cart management, and responsive layout. Developed to demonstrate proficiency in Angular, TypeScript, and front-end development best practices.
+
 ## Built With
 
 ![](https://img.shields.io/badge/-Angular-red)
@@ -11,15 +12,16 @@
 ![](https://img.shields.io/badge/Testing-Jasmine-brightgreen)
 ![](https://img.shields.io/badge/Test%20Runner-Karma-red)
 ![](https://img.shields.io/badge/Unit%20Testing-Angular-blue)
+
 - Visual Studio Code
 - Angular version 19.1.4
 - TypeScript version 5.7.3
-- rxjs version 7.8.1
-- flowbite
+- Rxjs version 7.8.1
+- Ngxtension
+- Flowbite
 - Tailwind
 - Fake Store API
 - AWS S3
-
 
 ## live
 
@@ -30,8 +32,6 @@
 ![Texto alternativo](https://senora-garabato-images.s3.us-east-2.amazonaws.com/NimDev/Screenshot+2025-01-28+132727.png)
 
 ![Texto alternativo](https://senora-garabato-images.s3.us-east-2.amazonaws.com/NimDev/Screenshot+2025-01-28+132727.png)
-
-
 
 ## Getting Started
 
@@ -56,6 +56,12 @@ If Angular is not instaled.
 ```
 $vnpm list @angular/core
 ```
+
+### Links
+
+Flowbite: https://flowbite.com/docs/components/navbar/
+Fake Store: https://fakestoreapi.com/docs
+Ngxtension: https://ngxtension.netlify.app/utilities/signals/signal-slice/
 
 ### Setup
 
